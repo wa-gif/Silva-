@@ -7,7 +7,7 @@
     <groupId>com.silva.flood</groupId>
     <artifactId>flood-prediction</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>Flood prediction</description>
+    <description>Flood prediction Application</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
